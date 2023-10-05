@@ -3,4 +3,3 @@
 * squeeze lime
 * add salt
 * and mix thoroughly
-* enjoy!
